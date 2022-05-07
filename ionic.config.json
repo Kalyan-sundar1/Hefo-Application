@@ -1,0 +1,7 @@
+{
+  "name": "Hefo -app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
